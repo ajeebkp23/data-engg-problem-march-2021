@@ -21,6 +21,13 @@ Provided `sample_data.json` is renamed and committed to this repo with name `sam
 ```bash
 pip install -r requirments.txt
 ```
+
+Ensure requirements are properly installed before running the code.
+
+Tested platform: Ubuntu 20.04, Conda, Python 3.8.5
+
+I did test in separate virtualenv before committing the code. It was running successfully.
+
 # Run
 Eg: 
 ```python
